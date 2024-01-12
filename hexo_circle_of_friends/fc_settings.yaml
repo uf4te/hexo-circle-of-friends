@@ -18,13 +18,16 @@ LINK: [
      { link: "https://uf4te.cn/link/", theme: "butterfly" },  # 友链页地址1，修改为你的友链页地址
      { link: "https://www.uf4te.cn/link/", theme: "butterfly" }, # 友链页地址2
      { link: "https://blog.uf4te.cn/link/", theme: "butterfly" }, # 友链页地址3
-     { link: "https://uf4te.github.io/link/", theme: "butterfly" }, # 友链页地址3
-     { link: "https://uf4te.gitee.io/link/", theme: "butterfly" }, # 友链页地址3
+     { link: "https://uf4te.github.io/link/", theme: "butterfly" }, # 友链页地址4
+     { link: "https://uf4te.gitee.io/link/", theme: "butterfly" }, # 友链页地址5
+     { link: "https://cloudflare.uf4te.cn/link/", theme: "butterfly" }, # 友链页地址6
+     
      { link: "http://uf4te.cn/link/", theme: "butterfly" },  # 友链页地址1，修改为你的友链页地址
      { link: "http://www.uf4te.cn/link/", theme: "butterfly" }, # 友链页地址2
      { link: "http://blog.uf4te.cn/link/", theme: "butterfly" }, # 友链页地址3
-     { link: "http://uf4te.github.io/link/", theme: "butterfly" }, # 友链页地址3
-     { link: "http://uf4te.gitee.io/link/", theme: "butterfly" }, # 友链页地址3
+     { link: "http://uf4te.github.io/link/", theme: "butterfly" }, # 友链页地址4
+     { link: "http://uf4te.gitee.io/link/", theme: "butterfly" }, # 友链页地址5
+     { link: "http://cloudflare.uf4te.cn/link/", theme: "butterfly" }, # 友链页地址6
 #     ...
 ]
 
